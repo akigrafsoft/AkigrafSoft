@@ -25,7 +25,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.akigrafsoft</groupId>
-			<artifactId>KWebPlatform</artifactId>
+			<artifactId>k-web-platform</artifactId>
 			<version>1.0-SNAPSHOT</version>
 		</dependency>
 		
